@@ -1,0 +1,36 @@
+#buttons
+    height: 75%
+    width: 100%
+    @include display(flex)
+    @include flex-wrap(wrap)
+    div
+        width: 25%
+        height: 20%
+        border-bottom: 1px solid $color2
+        border-right: 1px solid $color2
+        @include display(flex)
+        @include justify-content(center)
+        @include align-items(center)
+        cursor: pointer
+        p
+            display: block
+            font-size: 2rem
+            text-align: center
+    div:nth-child(4n)
+        border-right: 0
+    div:last-of-type
+        @include border-width(0 0 0 0)
+    .numbers
+        background-color: $color5
+    .ac
+        background-color: $color3
+    .operators
+        background-color: $color4
+    .dot
+        background-color: $color6
+    .negpos
+        background-color: $color7
+    #equality
+        width: 75%!important
+        border-bottom: 0
+        background-color: $color3

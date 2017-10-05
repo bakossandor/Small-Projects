@@ -1,0 +1,13 @@
+#display
+    height: 25%
+    border-bottom: 1px solid black
+    @include display(flex)
+    @include flex-wrap(wrap)
+    @include align-items(flex-end)
+    text-align: right
+    background-color: $color1
+    div
+        padding-right: 1rem
+        width: 100%
+    div:last-of-type
+        font-size: 3rem
