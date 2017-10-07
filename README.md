@@ -10,6 +10,8 @@ apps:
 
 **Simon_Game
 
-**wapp - a get current weather application 
+**wapp - a get current weather application
+
+**wiki - a wiki search application (EN)
 
 My plan is to update this every day!
