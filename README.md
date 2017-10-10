@@ -14,4 +14,6 @@ apps:
 
 **wiki - a wiki search application (EN)
 
+**superSnake - for this moment a basic snake game but will be costumized
+
 My plan is to update this every day!
