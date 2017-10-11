@@ -14,6 +14,6 @@ apps:
 
 **wiki - a wiki search application (EN)
 
-**superSnake - for this moment a basic snake game but will be costumized
+**superSnake - - - updated start the game function and collapse whe eat it's own tail
 
 My plan is to update this every day!

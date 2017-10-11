@@ -1,3 +1,12 @@
 canvas{
     border: 1px solid black;
 }
+
+#snakeStart{
+    width: 5rem;
+    height: 2rem;
+    background-color: transparent;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}
