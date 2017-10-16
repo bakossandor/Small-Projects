@@ -16,4 +16,4 @@ apps:
 
 **superSnake - - - updated start the game function and collapse whe eat it's own tail
 
-My plan is to update this every day!
+Just keep going!
